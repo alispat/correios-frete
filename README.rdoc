@@ -212,6 +212,7 @@ Para desabilitar o log, mudar o nível do log ou configurar um outro mecanismo d
   :pac                         # 04510 - PAC sem contrato
   :pac_com_contrato            # 41068 - PAC com contrato
   :pac_com_contrato_2          # 04669 - PAC com contrato
+  :pac_com_contrato_3          # 41211 - PAC com contrato
   :pac_gf                      # 41300 - PAC para grandes formatos
   :sedex                       # 04014 - SEDEX sem contrato
   :sedex_a_cobrar              # 40045 - SEDEX a Cobrar, sem contrato
